@@ -1,6 +1,6 @@
 [package]
 name        = "bootstrap"
-version     = "1.0.1"
+version     = "1.0.2"
 description = "Run x.py slightly more conveniently"
 license     = "CC0-1.0"
 homepage    = "https://github.com/casey/bootstrap"
