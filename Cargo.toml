@@ -1,0 +1,9 @@
+[package]
+name        = "bootstrap"
+version     = "1.0.0"
+description = "Run x.py slightly more conveniently"
+license     = "CC0-1.0"
+homepage    = "https://github.com/casey/bootstrap"
+repository  = "https://github.com/casey/bootstrap"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+edition     = "2018"
