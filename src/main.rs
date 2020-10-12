@@ -18,7 +18,7 @@ fn main() {
 
         if candidate.exists() {
             let error = Command::new(&candidate)
-                .args(env::args())
+                .args(env::args().skip(1))
                 .current_dir(dir)
                 .exec();
 
